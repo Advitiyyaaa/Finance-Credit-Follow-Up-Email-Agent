@@ -399,15 +399,13 @@ Summary: 2 emails generated (dry-run) | 1 escalation flagged | 0 errors
 
 ## 11. Deliverables Checklist
 
-- [ ] GitHub repository with source code, `.env.example`, `requirements.txt`, `README.md`
-- [ ] `agent.md` — this document (architecture, prompts, security, setup)
-- [ ] Agent flow diagram (see Section 2)
-- [ ] Sample invoice CSV (`data/sample_invoices.csv`)
-- [ ] Sample audit log output (`data/sample_audit_log.json`)
-- [ ] 3–5 min screen recording of end-to-end dry-run
-- [ ] 8–10 slide presentation deck
-- [ ] Security mitigations section (see Section 7) — **mandatory for full marks**
+- [x] GitHub repository with source code, `.env.example`, `requirements.txt`, `README.md`
+- [x] `agent.md` — this document (architecture, prompts, security, setup)
+- [x] Agent flow diagram (see Section 2)
+- [x] Sample invoice CSV (`data/sample_invoices.csv`)
+- [x] Sample audit log output (`data/sample_audit_log.json`)
+- [x] 3–5 min screen recording of end-to-end dry-run
+- [x] 8–10 slide presentation deck
+- [x] Security mitigations section 
 
 ---
-
-*Built for the AI Enablement Internship · Task 2 · Finance Credit Follow-Up Email Agent*
