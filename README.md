@@ -28,8 +28,7 @@ An autonomous AI agent that monitors overdue invoices and sends progressively es
 ### Installation
 
 ```bash
-git clone https://github.com/your-org/credit-followup-agent.git
-cd credit-followup-agent
+git clone https://github.com/Advitiyyaaa/Finance-Credit-Follow-Up-Email-Agent
 pip install -r requirements.txt
 cp .env.example .env
 # Edit .env with your Google API key
@@ -155,5 +154,3 @@ streamlit run app.py
 ```
 
 ---
-
-*Built for the AI Enablement Internship · Task 2*
