@@ -1,0 +1,19 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+
+# Data
+data/audit_log.db
+data/*.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDF extraction temp
+pdf_content.txt

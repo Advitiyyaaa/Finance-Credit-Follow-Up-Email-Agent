@@ -1,0 +1,9 @@
+invoice_no,client_name,client_email,amount_due,due_date,follow_up_count,payment_link
+INV-2026-001,Rajesh Kapoor,rajesh@acmecorp.in,45000,2026-05-06,0,https://pay.acmecorp.com/inv001
+INV-2026-002,Priya Sharma,priya@techsol.in,128000,2026-04-30,1,https://pay.acmecorp.com/inv002
+INV-2026-003,Vikram Mehta,vikram@globaltech.in,75000,2026-04-25,0,https://pay.acmecorp.com/inv003
+INV-2026-004,Ananya Desai,ananya@innovate.in,250000,2026-04-20,2,https://pay.acmecorp.com/inv004
+INV-2026-005,Suresh Iyer,suresh@tradeco.in,92000,2026-04-14,1,https://pay.acmecorp.com/inv005
+INV-2026-006,Meera Patel,meera@buildright.in,180000,2026-03-25,3,https://pay.acmecorp.com/inv006
+INV-2026-007,Arjun Nair,arjun@logisticspro.in,340000,2026-03-01,4,https://pay.acmecorp.com/inv007
+INV-2026-008,Kavita Reddy,kavita@designhub.in,55000,2026-05-08,0,https://pay.acmecorp.com/inv008
